@@ -1,1 +1,1 @@
-{"P3": {"label": "\u65e5\u5e38", "labelColor": "#28C9A6", "postTitle": "hello world", "postUrl": "post/hello%20world.html", "createdDate": "2024-04-01", "dateLabelColor": "#bc4c00"}}
+{"P3": {"labels": ["\u65e5\u5e38"], "postTitle": "hello world", "postUrl": "post/hello%20world.html", "createdDate": "2024-04-01", "dateLabelColor": "#bc4c00"}, "labelColorDict": {"documentation": "#0075ca", "good first issue": "#7057ff", "help wanted": "#008672", "question": "#d876e3", "\u65e5\u5e38": "#28C9A6"}}
